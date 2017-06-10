@@ -6,6 +6,7 @@
     'depends': ['mail'],
     'data':[
         'views/todo_view.xml',
-        'views/view_form_todo_task.xml',],
+        'views/view_form_todo_task.xml',
+        'security/ir.model.access.csv',],
     'application': True,
 }
