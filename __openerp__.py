@@ -5,6 +5,7 @@
     'author': 'Daniel Reis',
     'depends': ['mail'],
     'data':[
-        'views/todo_view.xml'],
+        'views/todo_view.xml',
+        'views/view_form_todo_task.xml',],
     'application': True,
 }
