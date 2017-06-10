@@ -7,6 +7,7 @@
     'data':[
         'views/todo_view.xml',
         'views/view_form_todo_task.xml',
-        'security/ir.model.access.csv',],
+        'security/ir.model.access.csv',
+        'security/todo_access_rules.xml'],
     'application': True,
 }
